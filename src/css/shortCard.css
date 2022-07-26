@@ -1,0 +1,37 @@
+.shorts-content{
+    display: flex;
+}
+.shorts-card{
+    position: relative;
+    width: 320px;
+    height: 545px;
+    background-color: rgba(51, 38, 38, 0.699);
+    border-radius: 10px;
+}
+.shorts-reaction{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-size: 40px;
+    color: grey;
+    margin-left: 10px;
+}
+.sreactionicon{
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.subs_button{
+    background-color: rgb(239, 21, 21);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: none;
+}

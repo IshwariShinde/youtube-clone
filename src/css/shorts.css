@@ -1,0 +1,7 @@
+.shorts-page{
+    flex: 0.8;
+    padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
